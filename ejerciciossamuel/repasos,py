@@ -1,10 +1,10 @@
-# 1) Crea una función que reciba un nombre como parámetro y muestre un saludo
+'''# 1) Crea una función que reciba un nombre como parámetro y muestre un saludo
 def saludar(nombre):
     print("¡Hola,", nombre + "!")
 
 #  Ejemplo de uso
 saludar("Samuel")
-''''
+
 # 2) Crea una función que reciba dos números y devuelva su suma.
 def sumar(a, b):
     return a + b
@@ -82,4 +82,171 @@ for num in numeros:
 
 # Paso 3: Imprimir el resultado
 print("La suma total es:", suma)
-'''
+
+
+edad = int(input("ingrsa tu edad: "))
+
+if edad >= 18:
+    print("eres un adulto.")
+elif edad <= 12:
+    print("eres un niño.")
+else:
+    print("eres un adolecente")
+
+
+num1 = (input("ingrese el primer numero: "))
+num2 = (input("ingrese el segundo numero: "))
+if num1 < num2:
+    print(f"el numero {num2} es menor que {num1}")
+elif num1 > num2:
+    print(f"el numero {num1} es mayor que {num2}.")
+else:
+    print("los numeros son iguales.")
+
+# suma de dos numeros 
+
+n1 = 8
+n2 = 7
+print(n1 + n2)'''
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
